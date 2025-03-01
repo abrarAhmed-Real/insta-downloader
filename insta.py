@@ -3,6 +3,7 @@ import requests
 class InstagramReelDownloader:
     """
     A class to handle the extraction and downloading of videos from Instagram reels.
+    added some info into the documentation...
     """
  
     def __init__(self, reel_urls):

@@ -3,7 +3,7 @@ print('some line added..')
 class InstagramReelDownloader:
     """
     A class to handle the extraction and downloading of videos from Instagram reels.
-    added some info into the documentation...
+    added some info into the documentation... and more text..
     """
  
     def __init__(self, reel_urls):
